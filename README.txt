@@ -1,0 +1,3 @@
+- cd cmd/service
+- go build .
+- ./service

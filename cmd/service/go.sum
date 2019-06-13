@@ -1,4 +1,6 @@
 github.com/owais/demo-contrib v0.0.0-20190613192723-5708f531e1d4 h1:5q3ADjmX3y4TdvWt5Fdt2/vQqnVwc6727LlmM2hO+JU=
 github.com/owais/demo-contrib v0.0.0-20190613192723-5708f531e1d4/go.mod h1:qj1CEb8tb+Q/6Og6DM1gN8bh8zcRhg28FkvhUeDjyqA=
+github.com/owais/demo-contrib v0.0.0-20190613193153-ac4f35757c44 h1:QbzbNFcLyC9fNOOfUw/Ku6YAfVooCapFnJ6sTCxr7/s=
+github.com/owais/demo-contrib v0.0.0-20190613193153-ac4f35757c44/go.mod h1:8Jm+WJKCWO46k73wGAy5x9uHbuDQVSUxnkEtBOVQlVg=
 github.com/owais/demo-service v0.0.0-20190613192302-e99483851d96 h1:FHHSXHSK6bvkmcQQ9uYhF76BTsN68C4/FJ0q4FQUldg=
 github.com/owais/demo-service v0.0.0-20190613192302-e99483851d96/go.mod h1:002vNkYTr7aU35dAqbvYWNtUDmRMHAzqUDH6vaRku+8=
